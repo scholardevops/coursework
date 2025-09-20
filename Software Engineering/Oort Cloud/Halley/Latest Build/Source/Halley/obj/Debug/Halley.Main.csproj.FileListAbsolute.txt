@@ -1,0 +1,99 @@
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.exe.manifest
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.application
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.exe
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.About.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.Battery.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.Sensors.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.About.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.About.xml
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.Sensors.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.Sensors.xml
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.Battery.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\obj\Debug\Halley.MainForm.resources
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\obj\Debug\Halley.Properties.Resources.resources
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\obj\Debug\Halley.Main.csproj.GenerateResource.Cache
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\obj\Debug\Halley.TrustInfo.xml
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\obj\Debug\Halley.exe.manifest
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\obj\Debug\Halley.application
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\obj\Debug\Halley.exe
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\obj\Debug\Halley.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley\bin\Debug\Halley.XML
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.exe.manifest
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.application
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.exe
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.About.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Battery.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Compressability.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Radiation.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Slope.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Thermometer.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.About.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Battery.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Slope.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Radiation.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Compressability.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Thermometer.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.MainForm.resources
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.Properties.Resources.resources
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.Main.csproj.GenerateResource.Cache
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.TrustInfo.xml
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.exe.manifest
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.application
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.exe
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.pdb
+G:\Latest Build\Source\Halley\obj\Debug\Halley.exe
+G:\Latest Build\Source\Halley\obj\Debug\Halley.pdb
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.exe.manifest
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.application
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.exe
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.pdb
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.About.dll
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.Battery.dll
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.Compressability.dll
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.Radiation.dll
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.Slope.dll
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.Thermometer.dll
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.About.pdb
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.Battery.pdb
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.Slope.pdb
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.Radiation.pdb
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.Compressability.pdb
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\bin\Debug\Halley.Thermometer.pdb
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\obj\Debug\Halley.MainForm.resources
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\obj\Debug\Halley.Properties.Resources.resources
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\obj\Debug\Halley.Main.csproj.GenerateResource.Cache
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\obj\Debug\Halley.TrustInfo.xml
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\obj\Debug\Halley.exe.manifest
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\obj\Debug\Halley.application
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\obj\Debug\Halley.exe
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley\obj\Debug\Halley.pdb
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.exe
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.pdb
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.exe.manifest
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.application
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.exe
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.pdb
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.About.dll
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Battery.dll
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Compressability.dll
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Radiation.dll
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Slope.dll
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Thermometer.dll
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.About.pdb
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Battery.pdb
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Slope.pdb
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Radiation.pdb
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Compressability.pdb
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\bin\Debug\Halley.Thermometer.pdb
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\ResolveAssemblyReference.cache
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.MainForm.resources
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.Properties.Resources.resources
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.Main.csproj.GenerateResource.Cache
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.TrustInfo.xml
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.exe.manifest
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley\obj\Debug\Halley.application

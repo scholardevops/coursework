@@ -1,0 +1,31 @@
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley.About\bin\Debug\Halley.About.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley.About\bin\Debug\Halley.About.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley.About\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley.About\obj\Debug\Halley.About.AboutForm.resources
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley.About\obj\Debug\Halley.About.csproj.GenerateResource.Cache
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley.About\obj\Debug\Halley.About.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Source\Halley.About\obj\Debug\Halley.About.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley.About\bin\Debug\Halley.About.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley.About\bin\Debug\Halley.About.pdb
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley.About\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley.About\obj\Debug\Halley.About.AboutForm.resources
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley.About\obj\Debug\Halley.About.Properties.Resources.resources
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley.About\obj\Debug\Halley.About.csproj.GenerateResource.Cache
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley.About\obj\Debug\Halley.About.dll
+C:\Users\Jonathan Moore\Desktop\Oort Cloud\Halley\Latest Build\Source\Halley.About\obj\Debug\Halley.About.pdb
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley.About\bin\Debug\Halley.About.dll
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley.About\bin\Debug\Halley.About.pdb
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley.About\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley.About\obj\Debug\Halley.About.AboutForm.resources
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley.About\obj\Debug\Halley.About.Properties.Resources.resources
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley.About\obj\Debug\Halley.About.csproj.GenerateResource.Cache
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley.About\obj\Debug\Halley.About.dll
+C:\Users\Joanna\Desktop\Latest Build\Source\Halley.About\obj\Debug\Halley.About.pdb
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley.About\bin\Debug\Halley.About.dll
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley.About\bin\Debug\Halley.About.pdb
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley.About\obj\Debug\ResolveAssemblyReference.cache
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley.About\obj\Debug\Halley.About.AboutForm.resources
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley.About\obj\Debug\Halley.About.Properties.Resources.resources
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley.About\obj\Debug\Halley.About.csproj.GenerateResource.Cache
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley.About\obj\Debug\Halley.About.dll
+D:\Sphinx Logic\Oort Cloud\Halley\Latest Build\Source\Halley.About\obj\Debug\Halley.About.pdb
